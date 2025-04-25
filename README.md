@@ -15,7 +15,7 @@ The goal of this project is to design and implement a relational database suitab
 
 ## 🖼️ ERD Diagram
 
-![ERD_Design_and_Ecommerce_database](./Erd.png)
+![ERD_Design_and_Ecommerce_database](./ERD.png)
 
 
 
